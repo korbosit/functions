@@ -7,3 +7,10 @@ https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Functions/Arrow_f
 
 // замыкание изнутри
 https://learn.javascript.ru/closure
+
+// метод trim()
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/Trim
+Метод trim() удаляет пробельные символы с начала и конца строки. Пробельными символами в этом контексте считаются все собственно пробельные символы (пробел, табуляция, неразрывный пробел и прочие) и все символы конца строки (LF, CR и прочие).
+
+// caback функции
+https://learn.javascript.ru/callbacks
